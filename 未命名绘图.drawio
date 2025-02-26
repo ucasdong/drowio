@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16">
   <diagram name="第 1 页" id="-9EXmJYOicca7XMtbGK6">
-    <mxGraphModel dx="1390" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1907" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,7 +102,7 @@
             <mxPoint x="570" y="883" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J7uWcxeR8kHzV2L5Cr5S-33" value="解包模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFF4C3,var(--ge-dark-color, #121212));" parent="1" vertex="1">
+        <mxCell id="J7uWcxeR8kHzV2L5Cr5S-33" value="打包模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFF4C3,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="285" y="855" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7uWcxeR8kHzV2L5Cr5S-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10.847457627118644;endSize=4.996610169491525;fillColor=#CCFF99;" parent="1" edge="1">
@@ -131,7 +131,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J7uWcxeR8kHzV2L5Cr5S-41" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#F19C99;exitX=1.004;exitY=0.408;exitDx=0;exitDy=0;exitPerimeter=0;width=8.275862068965518;startSize=4.252873563218391;endSize=4.825287356321839;" parent="1" edge="1" source="J7uWcxeR8kHzV2L5Cr5S-14">
+        <mxCell id="J7uWcxeR8kHzV2L5Cr5S-41" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#F19C99;exitX=1.004;exitY=0.408;exitDx=0;exitDy=0;exitPerimeter=0;width=8.275862068965518;startSize=4.252873563218391;endSize=4.825287356321839;" parent="1" source="J7uWcxeR8kHzV2L5Cr5S-14" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="640" y="737" as="sourcePoint" />
             <mxPoint x="729" y="736.9599999999998" as="targetPoint" />
@@ -197,7 +197,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J7uWcxeR8kHzV2L5Cr5S-57" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=4.230769230769231;endSize=1.8788461538461536;startSize=1.8788461538461536;endWidth=9.467455621301776;startWidth=9.467455621301776;fillColor=#D5E8D4;entryX=-0.015;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="J7uWcxeR8kHzV2L5Cr5S-14">
+        <mxCell id="J7uWcxeR8kHzV2L5Cr5S-57" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=4.230769230769231;endSize=1.8788461538461536;startSize=1.8788461538461536;endWidth=9.467455621301776;startWidth=9.467455621301776;fillColor=#D5E8D4;entryX=-0.015;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="J7uWcxeR8kHzV2L5Cr5S-14" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="499.5" y="744.8" as="sourcePoint" />
             <mxPoint x="540" y="745" as="targetPoint" />
